@@ -9,3 +9,4 @@ jupyter>=1.0.0
 notebook>=6.5.0
 flask
 gunicorn
+pyarrow
